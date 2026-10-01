@@ -268,10 +268,10 @@ Built for **Build with Bharat 4.0**, a National Level Hackathon (CodeVerse, KCC 
 | Name | Role |
 | :--- | :--- |
 | **Ayushi Kushwaha** | Team Lead · Full Stack & AI Developer |
-| **Mahika Negi** | Team Member |
-| **Akshita Sachan** | Team Member |
-| **Anirudh Bhavesh** | Team Member |
-| **Prachi Mallick** | Team Member |
+| **Mahika Negi** | Frontend Developer & UI/UX Lead (React & Leaflet Maps) |
+| **Akshita Sachan** | Edge-AI & Computer Vision Engineer (YOLOv8 & Depth Estimation) |
+| **Anirudh Bhavesh** | Backend & Geospatial Developer (FastAPI & PostGIS) |
+| **Prachi Mallick** | System Testing & Anti-Fraud Protocol Lead |
 
 **Institution:** Chandigarh University
 
