@@ -196,42 +196,20 @@ An illustrative reading for a single flooded road segment (thresholds are config
 - [PostgreSQL](https://www.postgresql.org/) `>= 14` with the [PostGIS](https://postgis.net/) extension
 
 ### 1. Clone the repository
+``` Bash
 
-```bash
-git clone https://github.com/<your-username>/fwis.git
-cd fwis
+git clone https://github.com/ayushik-15/FWIS-flood-intelligence.git
 ```
 
 ### 2. Run the frontend
 
-```bash
-cd frontend
+``` Bash
 npm install
 npm run dev
 ```
 
 The app will be available at `http://localhost:5173` (default Vite port).
 
-### 3. Run the backend
-
-```bash
-cd backend
-python -m venv venv
-source venv/bin/activate        # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
-uvicorn main:app --reload
-```
-
-The API docs will be available at `http://localhost:8000/docs`.
-
-### 4. Configure the database
-
-```bash
-createdb fwis
-psql -d fwis -c "CREATE EXTENSION IF NOT EXISTS postgis;"
-```
-
-> **Tip:** Copy `.env.example` to `.env` in both `frontend/` and `backend/` and fill in your database URL and any API keys (e.g. rainfall / elevation data sources).
 
 ### Suggested Project Structure
 
@@ -243,8 +221,6 @@ fwis/
 ├── data/         # SRTM elevation & rainfall ingestion scripts
 └── README.md
 ```
-
-> Adjust the folder names above to match your actual repository layout.
 
 ---
 
