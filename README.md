@@ -7,8 +7,6 @@
 *Turning citizen smartphones and municipal CCTV into a real-time, street-level flood depth sensing network.*
 
 <br/>
-
-![Build with Bharat 4.0](https://img.shields.io/badge/Build%20with-Bharat%204.0-FF6A1A?style=for-the-badge&labelColor=138808)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -16,9 +14,9 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-DeepLabV3+-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
-**Team Vision Grid** · Chandigarh University · National Level Hackathon, *Build with Bharat 4.0*
+Chandigarh University
 
-[Problem](#-the-problem) · [Solution](#-the-solution) · [Innovations](#-key-innovations) · [Architecture](#-system-architecture) · [Getting Started](#-getting-started) · [Team](#-team-vision-grid)
+[Problem](#-the-problem) · [Solution](#-the-solution) · [Innovations](#-key-innovations) · [Architecture](#-system-architecture) · [Getting Started](#-getting-started) 
 
 </div>
 
@@ -261,9 +259,7 @@ fwis/
 
 ---
 
-## 👥 Team Vision Grid
-
-Built for **Build with Bharat 4.0**, a National Level Hackathon (CodeVerse, KCC Institute of Technology and Management, Greater Noida).
+## 👥 Team
 
 | Name | Role |
 | :--- | :--- |
@@ -297,7 +293,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 
 <div align="center">
 
-**Made with ❤️ by Team Vision Grid for Build with Bharat 4.0 🇮🇳**
+**Made with ❤️ 
 
 *Know before you go.*
 
